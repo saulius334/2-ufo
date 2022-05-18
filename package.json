@@ -1,0 +1,16 @@
+{
+  "name": "2-ufo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=1111 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sauliuss",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
